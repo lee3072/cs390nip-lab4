@@ -17,9 +17,9 @@ Name: Seung Heon Lee
 
 Email: lee3072@purdue.edu
 
---------------------------------------------------------------------------------
+
 ## Hyperparameters
---------------------------------------------------------------------------------
+
 
 Learning Rate: 0.0002 (Both Generator and Discrimiator)
 
