@@ -21,19 +21,30 @@ Email: lee3072@purdue.edu
 ## Hyperparameters
 
 
-Learning Rate: 0.0002 (Both Generator and Discrimiator)
+shirts:
+* Learning Rate: 0.002 (Generator)
+* Ratio of Training: 0.02 (Discrimiator / Generator)
+* Epochs: 9000
+* BatchSize: 32 (Both Generator and Discrimiator)
 
 
-Epochs: 60000
+ankle boots:
+* Learning Rate: 0.002 (Generator)
+* Ratio of Training: 0.003 (Discrimiator / Generator)
+* Epochs: 9000
+* BatchSize: 32 (Both Generator and Discrimiator)
+
+bag:
+* Learning Rate: 0.002 (Generator)
+* Ratio of Training: 0.0054 (Discrimiator / Generator)
+* Epochs: 10000
+* BatchSize: 32 (Both Generator and Discrimiator)
 
 
-BatchSize: 32 (Both Generator and Discrimiator)
+Activation function hidden layers: LeakyReLU (Both Generator and Discrimiator)
 
 
-Activation function hidden layers: LeakyReLU (Both Generator and Discrimiator) [alpha: 0.2] 
-* LeakyReLU multiplies alpha value if the ouput is lower than 0
-
-
+Dropout Rate: 0.3 (Discriminator)
 
 
 Activation function last: sigmoid (Discriminator) 
@@ -48,11 +59,5 @@ Optimization Algorithm: Adam (Both Generator and Discrimiator)
 
 
 Loss Function: binary_crossentropy (Both Generator and Discrimiator)
-
-
-Number of layers: 3 (Discriminator)
-
-
-Number of layers: 4 (Generator)
 
 --------------------------------------------------------------------------------
