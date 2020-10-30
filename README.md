@@ -76,7 +76,43 @@ Loss Function: binary_crossentropy (Both Generator and Discrimiator)
 ## Loss Plots:
 
 
-![Alt text](lab4 outputs/mnist_f_shirt/mnist_f_shirt_final_0.png "Bag Final Output 0")
+shirt final ouputs:
+![Alt text](lab4_outputs/mnist_f_shirt/mnist_f_shirt_final_0.png)
+![Alt text](lab4_outputs/mnist_f_shirt/mnist_f_shirt_final_1.png)
+![Alt text](lab4_outputs/mnist_f_shirt/mnist_f_shirt_final_2.png)
+![Alt text](lab4_outputs/mnist_f_shirt/mnist_f_shirt_final_3.png)
+![Alt text](lab4_outputs/mnist_f_shirt/mnist_f_shirt_final_4.png)
+![Alt text](lab4_outputs/mnist_f_shirt/mnist_f_shirt_final_5.png)
+![Alt text](lab4_outputs/mnist_f_shirt/mnist_f_shirt_final_6.png)
+![Alt text](lab4_outputs/mnist_f_shirt/mnist_f_shirt_final_7.png)
+![Alt text](lab4_outputs/mnist_f_shirt/mnist_f_shirt_final_8.png)
+![Alt text](lab4_outputs/mnist_f_shirt/mnist_f_shirt_final_9.png)
+
+
+ankle boot final ouputs:
+![Alt text](lab4_outputs/mnist_f_ankle_boot/mnist_f_ankle_boot_final_0.png)
+![Alt text](lab4_outputs/mnist_f_ankle_boot/mnist_f_ankle_boot_final_1.png)
+![Alt text](lab4_outputs/mnist_f_ankle_boot/mnist_f_ankle_boot_final_2.png)
+![Alt text](lab4_outputs/mnist_f_ankle_boot/mnist_f_ankle_boot_final_3.png)
+![Alt text](lab4_outputs/mnist_f_ankle_boot/mnist_f_ankle_boot_final_4.png)
+![Alt text](lab4_outputs/mnist_f_ankle_boot/mnist_f_ankle_boot_final_5.png)
+![Alt text](lab4_outputs/mnist_f_ankle_boot/mnist_f_ankle_boot_final_6.png)
+![Alt text](lab4_outputs/mnist_f_ankle_boot/mnist_f_ankle_boot_final_7.png)
+![Alt text](lab4_outputs/mnist_f_ankle_boot/mnist_f_ankle_boot_final_8.png)
+![Alt text](lab4_outputs/mnist_f_ankle_boot/mnist_f_ankle_boot_final_9.png)
+
+
+bag final ouputs:
+![Alt text](lab4_outputs/mnist_f_bag/mnist_f_bag_final_0.png)
+![Alt text](lab4_outputs/mnist_f_bag/mnist_f_bag_final_1.png)
+![Alt text](lab4_outputs/mnist_f_bag/mnist_f_bag_final_2.png)
+![Alt text](lab4_outputs/mnist_f_bag/mnist_f_bag_final_3.png)
+![Alt text](lab4_outputs/mnist_f_bag/mnist_f_bag_final_4.png)
+![Alt text](lab4_outputs/mnist_f_bag/mnist_f_bag_final_5.png)
+![Alt text](lab4_outputs/mnist_f_bag/mnist_f_bag_final_6.png)
+![Alt text](lab4_outputs/mnist_f_bag/mnist_f_bag_final_7.png)
+![Alt text](lab4_outputs/mnist_f_bag/mnist_f_bag_final_8.png)
+![Alt text](lab4_outputs/mnist_f_bag/mnist_f_bag_final_9.png)
 
 
 --------------------------------------------------------------------------------
