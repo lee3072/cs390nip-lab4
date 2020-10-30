@@ -72,4 +72,11 @@ Optimization Algorithm: Adam (Both Generator and Discrimiator)
 
 Loss Function: binary_crossentropy (Both Generator and Discrimiator)
 
+
+## Loss Plots:
+
+
+![Alt text](lab4 outputs/mnist_f_shirt/mnist_f_shirt_final_0.png "Bag Final Output 0")
+
+
 --------------------------------------------------------------------------------
