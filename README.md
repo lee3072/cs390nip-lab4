@@ -75,6 +75,21 @@ Loss Function: binary_crossentropy (Both Generator and Discrimiator)
 
 ## Loss Plots:
 
+\
+shirt:\
+![Alt text](lab4_outputs/mnist_f_loss_plot_shirts.png)
+
+\
+ankle boot:\
+![Alt text](lab4_outputs/mnist_f_loss_plot_ankle_boot.png)
+
+\
+bag:\
+![Alt text](lab4_outputs/mnist_f_loss_plot_bag.png)
+
+
+## Generated Images:
+
 
 shirt final ouputs:
 ![Alt text](lab4_outputs/mnist_f_shirt/mnist_f_shirt_final_0.png)
