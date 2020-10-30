@@ -18,6 +18,18 @@ Name: Seung Heon Lee
 Email: lee3072@purdue.edu
 
 
+Resources Used: 
+* Gan Class Slide Page 10, 12
+* https://www.tensorflow.org/tutorials/generative/dcgan
+
+
+Parts Completed
+* Complete the GAN to generate legible F-MNIST records. Generate from 3 classes.
+* Use a convnet for the GAN networks.
+* Implement the option to select the ratio of training between discriminator and generator.
+* Save a plot of loss over training steps for each network.
+
+
 ## Hyperparameters
 
 
