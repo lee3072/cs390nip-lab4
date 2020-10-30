@@ -18,6 +18,9 @@ Name: Seung Heon Lee
 Email: lee3072@purdue.edu
 
 
+Git Repository: https://github.com/lee3072/cs390nip-lab4
+
+
 Resources Used: 
 * Gan Class Slide Page 10, 12
 * https://www.tensorflow.org/tutorials/generative/dcgan
